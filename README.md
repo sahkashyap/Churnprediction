@@ -56,7 +56,7 @@ streamlit run app.py
 
 ## Deployment
 
-Deployed on Streamlit Community Cloud: **[add your live link here]**
+Deployed on Streamlit Community Cloud: **[https://churnprediction-zjvcfynmp3jstsa5nxajpx.streamlit.app/]**
 
 ## Tech stack
 
